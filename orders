@@ -1,0 +1,83 @@
+[
+  {
+    "orderNo": 12321,
+    "orderDate": "22-11-2022",
+    "overallOrderStatus": "Order Sent",
+    "items": [
+      {
+        "itemNo": 1,
+        "productDetails": [
+          {
+             "Brand": "Nike",
+            "Item": "Nike Air Force One",
+            "quantity": 1,
+            "Size": "EU 38",
+            "Color": "White"
+          }
+        ]
+      },
+      {
+        "itemNo": 2,
+        "productDetails": [
+          {
+           "Brand": "Adidas",
+            "Item": "Stella McCartney leggings 3/4",
+            "quantity": 2,
+            "Size": "EU S",
+            "Color": "Black"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNo": 12342,
+     "orderDate": "29-10-2022",
+    "overallOrderStatus": "Order delivered",
+    "items": [
+      {
+        "itemNo": 1,
+        "productDetails": [
+          {
+            "Brand": "Lauren Ralph Lauren",
+            "Item": "Hamptons dress",
+            "quantity": 1,
+            "Size": "EU S",
+            "Color": "Multi"
+          }
+        ]
+      },
+      {
+        "itemNo": 2,
+        "productDetails": [
+          {
+            "Brand": "Vans",
+            "Item": "Original",
+            "quantity": 1,
+            "Size": "EU 40",
+            "Color": "Navy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNo": 12343,
+     "orderDate": "01-11-2022",
+    "overallOrderStatus": "Order cancelled",
+    "items": [
+      {
+        "itemNo": 1,
+        "productDetails": [
+          {
+            "Brand": "Adidas",
+            "Item": "Stan Smith",
+            "quantity": 1,
+            "Size": "EU 41 2/3",
+            "Color": "White"
+          }
+        ]
+      }
+    ]
+  }
+]
