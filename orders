@@ -8,8 +8,8 @@
         "itemNo": 1,
         "productDetails": [
           {
-             "Brand": "Nike",
-            "Item": "Nike Air Force One",
+             "Brand": "Aerie",
+            "Item": "Aeire Force One",
             "quantity": 1,
             "Size": "EU 38",
             "Color": "White"
@@ -20,8 +20,8 @@
         "itemNo": 2,
         "productDetails": [
           {
-           "Brand": "Adidas",
-            "Item": "Stella McCartney leggings 3/4",
+           "Brand": "Aerie",
+            "Item": "Aerie leggings 3/4",
             "quantity": 2,
             "Size": "EU S",
             "Color": "Black"
@@ -39,7 +39,7 @@
         "itemNo": 1,
         "productDetails": [
           {
-            "Brand": "Lauren Ralph Lauren",
+            "Brand": "Aerie",
             "Item": "Hamptons dress",
             "quantity": 1,
             "Size": "EU S",
@@ -51,7 +51,7 @@
         "itemNo": 2,
         "productDetails": [
           {
-            "Brand": "Vans",
+            "Brand": "Aerie",
             "Item": "Original",
             "quantity": 1,
             "Size": "EU 40",
@@ -70,8 +70,8 @@
         "itemNo": 1,
         "productDetails": [
           {
-            "Brand": "Adidas",
-            "Item": "Stan Smith",
+            "Brand": "Aerie",
+            "Item": "Aerie Smith",
             "quantity": 1,
             "Size": "EU 41 2/3",
             "Color": "White"
