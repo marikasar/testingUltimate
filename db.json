@@ -4,7 +4,7 @@
     "orderNo": 12321,
     "orderDate": "22-11-2022",
     "overallOrderStatus": "shipped",
-   "courier": "UPS"
+   "courier": "UPS",
     "items": [
       {
         "itemNo": 1,
@@ -37,7 +37,7 @@
      "orderDate": "29-10-2022",
     "overallOrderStatus": "delivered",
    "courier": "DHL",
-   "estimatedDelDate": "30-11-2022"
+   "estimatedDelDate": "30-11-2022",
     "items": [
       {
         "itemNo": 1,
@@ -69,7 +69,7 @@
     "orderNo": 12343,
      "orderDate": "01-11-2022",
     "overallOrderStatus": "cancelled",
-   "cancelledReason": "noStock"
+   "cancelledReason": "noStock",
     "items": [
       {
         "itemNo": 1,
