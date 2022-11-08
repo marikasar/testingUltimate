@@ -35,6 +35,8 @@
     "orderNo": 12342,
      "orderDate": "29-10-2022",
     "overallOrderStatus": "delivered",
+   "courier": "DHL",
+   "estimatedDelDate": "30-11-2022"
     "items": [
       {
         "itemNo": 1,
