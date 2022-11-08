@@ -3,7 +3,7 @@
   {
     "orderNo": 12321,
     "orderDate": "22-11-2022",
-    "overallOrderStatus": "Order Sent",
+    "overallOrderStatus": "shipped",
     "items": [
       {
         "itemNo": 1,
@@ -34,7 +34,7 @@
   {
     "orderNo": 12342,
      "orderDate": "29-10-2022",
-    "overallOrderStatus": "Order delivered",
+    "overallOrderStatus": "delivered",
     "items": [
       {
         "itemNo": 1,
@@ -65,7 +65,7 @@
   {
     "orderNo": 12343,
      "orderDate": "01-11-2022",
-    "overallOrderStatus": "Order cancelled",
+    "overallOrderStatus": "cancelled",
     "items": [
       {
         "itemNo": 1,
