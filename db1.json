@@ -1,0 +1,56 @@
+{"bookings":
+ [
+  {
+    "bookingNo": 12321,
+    "rentals": [
+      {
+        "rentalNo": 1,
+        "rentalDetails": [
+          {
+            "name": "Alex's Place",
+            "numOfGuests": 2,
+            "checkIn": "12-12-2022",
+            "checkOut": "16-12-2022",
+            "address": "Ultimate drive 5, 00010 Ultimate",
+            "refundable": TRUE,
+           "url": "https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_960_720.jpg"
+          }
+        ]
+      },
+      {
+        "rentalNo": 2,
+        "rentalDetails": [
+          {
+            "name": "Chrissy's Home",
+            "numOfGuests": 2,
+            "checkIn": "16-12-2022",
+            "checkOut": "20-12-2022",
+            "address": "Ultimate drive 10, 00010 Ultimate",
+            "refundable": TRUE,
+           "url": "https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_960_720.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bookingNo": 12323,
+    "rentals": [
+      {
+        "rentalNo": 1,
+        "rentalDetails": [
+          {
+            "name": "Alex's Place",
+            "numOfGuests": 4,
+            "checkIn": "12-01-2023",
+            "checkOut": "16-01-2023",
+            "address": "Ultimate drive 5, 00010 Ultimate",
+            "refundable": FALSE,
+           "url": "https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_960_720.jpg"
+          }
+        ]
+      }
+     ]
+    }
+]
+}
