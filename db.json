@@ -1,7 +1,7 @@
 {"orders":
  [
   {
-    "orderNumber": 12321,
+    "orderNo": 12321,
     "orderDate": "22-11-2022",
     "overallOrderStatus": "shipped",
    "courier": "UPS",
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "orderNumber": 12345,
+    "orderNo": 12345,
      "orderDate": "29-10-2022",
     "overallOrderStatus": "delivered",
    "courier": "DHL",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "orderNumber": 54321,
+    "orderNo": 54321,
      "orderDate": "01-11-2022",
     "overallOrderStatus": "cancelled",
    "cancelledReason": "no stock",
